@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a finance tracker app created by Bharat Kumar for self purpose only.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version:2.7.0
 
-* System dependencies
+* System dependencies: ubuntu 18.04(It will be also available on heroku)
 
-* Configuration
+* Configuration: none
 
-* Database creation
+* Database creation: automatic
 
-* Database initialization
+* Database initialization: none
 
-* How to run the test suite
+* How to run the test suite: rails server
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+* Deployment instructions: none
 
 * ...
